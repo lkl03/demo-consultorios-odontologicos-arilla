@@ -1,2 +1,7 @@
-# demo-consultorios-odontologicos-arilla
-Demo web para Consultorios Odontológicos Arilla — diseñada por eterlab.
+# Consultorios Odontológicos Arilla
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
